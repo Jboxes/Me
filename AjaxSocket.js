@@ -1,7 +1,11 @@
 /// <reference path="Ark.js" />
 //asdasdasda//
 
-Aveds.AjaxSocket = Aveds.AjaxSocket || {};
+var Aveds = Aveds || {};
+
+
+
+ Aveds.AjaxSocket = Aveds.AjaxSocket || {};
 
 Aveds.AjaxSocket.ArkHandler = "http://192.168.0.108:4986/Handler/ArkHandler.ashx";
 
