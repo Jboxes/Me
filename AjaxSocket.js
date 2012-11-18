@@ -1,5 +1,5 @@
-﻿/// <reference path="Ark.js" />
-
+/// <reference path="Ark.js" />
+//asdasdasda//
 
 Aveds.AjaxSocket = Aveds.AjaxSocket || {};
 
